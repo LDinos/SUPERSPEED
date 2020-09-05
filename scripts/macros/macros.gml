@@ -1,0 +1,3 @@
+#macro GRID_SIZE 64
+#macro BOARD_ROWS 8
+#macro BOARD_COLS 8
